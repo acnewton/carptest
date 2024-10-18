@@ -18,7 +18,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Version control system
 
 Version control is super important. Git git git git.
 
