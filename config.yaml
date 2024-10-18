@@ -67,6 +67,7 @@ contact: 'me@me.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- version-control.md
 
 # Information for Learners
 learners: 
