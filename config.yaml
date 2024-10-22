@@ -68,6 +68,9 @@ contact: 'me@me.org'
 episodes: 
 - introduction.md
 - 01-basics.md
+- 02-setup.md
+- 03-create.md
+- 04-changes.md
 
 # Information for Learners
 learners: 
